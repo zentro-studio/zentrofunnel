@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { Mail, MessageSquare } from 'lucide-react';
 import { PageContainer, Section } from '@/shared/layout';
 import { Breadcrumbs } from '@/shared/navigation/Breadcrumbs';
 import { Card, Badge, Input, Button } from '@/shared/ui';
