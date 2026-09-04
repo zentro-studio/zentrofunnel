@@ -1,0 +1,14 @@
+﻿/node_modules
+/.pnp
+.pnp.js
+/coverage
+/.next/
+/out/
+/build
+*.log*
+.env*.local
+.env
+.DS_Store
+*.pem
+.idea/
+.vscode/
